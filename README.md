@@ -2,7 +2,7 @@
 
 ### Tasks
 
-- [Week 1](https://shaheer08.github.io/internship.github.io/w1.md)
+- [Week 1](https://shaheer08.github.io/internship.github.io/w1)
 - [Week 2](https://shaheer08.github.io/internship.github.io/w2)
 - [Week 3](https://shaheer08.github.io/internship.github.io/w3)
 - [Week 4](https://shaheer08.github.io/internship.github.io/w4)
